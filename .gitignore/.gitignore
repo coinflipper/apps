@@ -1,0 +1,4 @@
+#exclude everything except wp* folders
+/*
+!/wp*
+!/wp*/local/*
